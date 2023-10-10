@@ -1,5 +1,5 @@
-# ainu
-AiNU: a material parameter extraction platform by physics-based machine learning (latest version: 0.1) <br>
+# AiNU 
+AiNU is a material parameter extraction platform by physics-based machine learning (latest version: 0.1) <br>
 © Hualin Zhan, Australian National University <br>
 Acknowledgements: [The ANU perovskite PV group](https://www.perovskitegroup.com.au/), [ACAP](https://www.acap.org.au/), [ARENA](https://arena.gov.au/)
 
@@ -7,8 +7,10 @@ This platform, which is packaged as software here for convenient implementation,
 
 This software is free to use. However, a valid COMSOL license (≥ 5.5) is required for the full-physics model.
 
-Version 0.1 features:
-
-1, Added the TRPL analysis module of a semiconductor (1D material model). <br>
-2, Three theoretical models are available to choose for TRPL analysis: bi-exponential equation, the kinetic (or ABC) model, or the full-physics model (require a COMSOL license). Here the full-physics model describes the drift-diffusion of carriers and the dynamic occupation of defects. <br>
-3, Added a TRPL data pre-process tool, which includes the removal of the noise and interpolation for analysis.
+* Version 0.1 features:
+  1. Added the TRPL analysis module of a semiconductor (1D material model). <br>
+  2. Three theoretical models are available to choose for TRPL analysis:
+     * the bi-exponential equation;
+     * the kinetic (or ABC) model;
+     * the full-physics model (require a COMSOL license), which describes the drift-diffusion of carriers and the dynamic occupation of defects. <br>
+  4. Added a TRPL data pre-process tool, which includes the removal of the noise and interpolation for analysis.
