@@ -1,6 +1,6 @@
 # AiNU 
 AiNU is a material parameter extraction platform by physics-based machine learning (latest version: v1.0.0) <br>
-© Hualin Zhan, Australian National University2 <br> 
+© Hualin Zhan, Australian National University <br> 
 Acknowledgements: [The ANU perovskite PV group](https://www.perovskitegroup.com.au/), [ACAP](https://www.acap.org.au/), [ARENA](https://arena.gov.au/)
 
 This platform, which is packaged as software here for convenient implementation, enables material parameter extraction from the analysis of experiments/characterizations. In this software, different experiments can be analyzed and the users can select their favorite theoretical model for experiment analysis. 
