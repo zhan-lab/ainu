@@ -10,7 +10,6 @@ This software is free to use. However, a valid COMSOL license (≥ v5.5) is requ
 * Version v1.0 features:
   1. Added the Time-Resolved Photoluminescence (TRPL) analysis module of a semiconductor (1D material model). <br>
   2. Three theoretical models are available to choose for TRPL analysis:
-     * the bi-exponential equation;
      * the kinetic (or ABC) model;
      * the full-physics model (requires a COMSOL license), which describes the drift-diffusion of carriers and the dynamic occupation of defects. <br>
   4. Added a TRPL data pre-process tool, which includes the removal of the noise and interpolation for analysis.
