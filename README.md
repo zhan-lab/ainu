@@ -6,7 +6,9 @@ Manual: [DOI: 10.5281/zenodo.11097885](https://doi.org/10.5281/zenodo.11097885)
 
 This program enables material parameter extraction from the analysis of experiments/characterizations. In this program, different experiments can be analyzed and the users can select their favourite theoretical model for experiment analysis. 
 
-This program is free to use for academic purposes only. However, a valid licenses for MATLAB is required. For the full-physics model, a COMSOL (≥ v5.5) license is also required.
+This program is **free for academic purposes only**. However, a valid licenses for MATLAB is required. For the full-physics model, a COMSOL (≥ v5.5) license is also required.
+
+## Change log
 
 * Version v1.0 features:
   1. Added the Time-Resolved Photoluminescence (TRPL) analysis module of a semiconductor (1D material model). <br>
@@ -15,11 +17,11 @@ This program is free to use for academic purposes only. However, a valid license
      * the full-physics model (requires a COMSOL license), which describes the drift-diffusion of carriers and the dynamic occupation of defects. <br>
   4. Added tools for TRPL experimental data preparation, which includes the removal of the noise and interpolation for analysis, and AiNU result visualization.
 
-Disclaimer
+## Disclaimer
 
 The program is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the program or the use or other dealings in the program.
 	
-Copyright
+## Copyright
 	
 © Hualin Zhan. All rights reserved.
 	
