@@ -7,6 +7,8 @@ Manual: [DOI: 10.5281/zenodo.11097885](https://doi.org/10.5281/zenodo.11097885)
 
 This program enables material parameter extraction from the analysis of experiments/characterizations. In this program, different experiments can be analyzed and the users can select their favourite theoretical model for experiment analysis. 
 
+![AiNU](tif/screenshot.png)
+
 This program is **free for academic purposes only**. However, a valid license for MATLAB is required. For the full-physics model, a COMSOL (≥ v5.5) license is also required.
 
 The source code of the program will be released soon. Early access to the source code for collaboration is possible by reaching out to us!

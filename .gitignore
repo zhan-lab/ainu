@@ -1,0 +1,4 @@
+# ignore the following files
+git_tips.txt
+.DS_Store
+*/.DS_Store
